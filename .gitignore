@@ -5,6 +5,8 @@
 # User-specific stuff
 .idea
 target
+build
+.gradle
 
 # CMake
 cmake-build-*/
